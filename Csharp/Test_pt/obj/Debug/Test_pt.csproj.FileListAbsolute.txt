@@ -1,0 +1,6 @@
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\bin\Debug\Test_pt.exe.config
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\bin\Debug\Test_pt.exe
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\bin\Debug\Test_pt.pdb
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\obj\Debug\Test_pt.csprojResolveAssemblyReference.cache
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\obj\Debug\Test_pt.exe
+c:\users\rtwo\documents\visual studio 2017\Projects\Test_pt\Test_pt\obj\Debug\Test_pt.pdb
